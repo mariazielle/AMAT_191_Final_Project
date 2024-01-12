@@ -20,7 +20,7 @@ Device<br />
 **The target feature**<br />
  Adaptivity level
 <br /><br />
-**Acknowledgement**:<br />  [Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education "Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches")
+**Acknowledgement**:<br />  [Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches](https://www.researchgate.net/publication/355891881_Students'_Adaptability_Level_Prediction_in_Online_Education_using_Machine_Learning_Approaches "Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches")
 or DOI: 10.1109/ICCCNT51525.2021.9579741
 
 
