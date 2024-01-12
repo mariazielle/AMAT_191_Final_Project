@@ -1,5 +1,5 @@
-AMAT 191 Code contains the code in the regression analysis of the Final Data. 
-Final Data is a csv file containing the data set of Students' Adaptability Level in Online Education.
+AMAT 191 Code contains the code in the regression analysis of the Final Data. \n
+Final Data is a csv file containing the data set of Students' Adaptability Level in Online Education.\n
 The contents of the of the csv file are: 
 The feature sets:
  Gender, 
