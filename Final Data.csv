@@ -1,0 +1,902 @@
+Gender,Age,Education_Level,Institution_Type,IT_Student,Location,Load-shedding,Financial_Condition,Internet_Type,Network_Type,Class_Duration,Self_Lms,Device,Adaptivity_Level
+Girl,21 - 25,University,Non Government,No,Yes,2,Mid,Mobile Data,4G,1 - 3,Yes,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,26 - 30,University,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,College,Government,No,No,2,Poor,Mobile Data,3G,1 - 3,Yes,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,No,2,Poor,Mobile Data,2G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Boy,16 - 20,School,Government,No,No,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Boy,21 - 25,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,21 - 25,College,Government,No,No,2,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Wifi,3G,1 - 3,No,Mobile,1
+Boy,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,2
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,No,2,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,No,0,Mid,Mobile Data,2G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,2
+Boy,16 - 20,College,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Government,No,No,2,Poor,Mobile Data,2G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,21 - 25,College,Government,No,No,2,Poor,Mobile Data,3G,1 - 3,Yes,Mobile,0
+Boy,26 - 30,University,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Wifi,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,2
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Wifi,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,2,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Government,No,No,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,No,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,University,Government,No,No,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,No,0,Mid,Mobile Data,2G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,No,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,0
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Mobile Data,4G,1 - 3,Yes,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,Yes,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Computer,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,1 - 3,No,Mobile,0
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Rich,Wifi,3G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Wifi,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,No,2,Poor,Mobile Data,2G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,0
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,11 - 15,School,Government,No,No,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Government,No,No,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,University,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Computer,1
+Girl,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,0
+Girl,21 - 25,College,Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,1
+Boy,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Computer,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,2
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,Yes,Mobile,1
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,College,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,2
+Boy,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,21 - 25,University,Government,No,No,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,2
+Boy,21 - 25,University,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,21 - 25,College,Government,No,No,2,Poor,Mobile Data,3G,1 - 3,Yes,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,0
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,2
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,26 - 30,University,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,1
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,No,2,Poor,Mobile Data,2G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,University,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Computer,1
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Rich,Wifi,3G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,2
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,No,2,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,No,2,Poor,Mobile Data,2G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Computer,0
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,1
+Boy,26 - 30,University,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,2
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,2,Poor,Mobile Data,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,1
+Boy,16 - 20,College,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Government,No,No,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,2
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Wifi,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,26 - 30,University,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,College,Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,2,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Computer,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,1
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,2
+Boy,11 - 15,School,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Computer,0
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,21 - 25,University,Government,No,Yes,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Boy,16 - 20,University,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Computer,1
+Girl,21 - 25,College,Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Rich,Wifi,3G,1 - 3,No,Mobile,2
+Boy,16 - 20,College,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Government,No,No,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,2,Mid,Wifi,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,Yes,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,No,0,Poor,Mobile Data,4G,1 - 3,Yes,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Boy,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,2
+Boy,21 - 25,University,Government,No,No,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Wifi,3G,0,Yes,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Wifi,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Rich,Wifi,3G,1 - 3,No,Mobile,2
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,16 - 20,University,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Computer,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Rich,Mobile Data,3G,1 - 3,No,Mobile,2
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,School,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Rich,Wifi,3G,1 - 3,No,Mobile,2
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,16 - 20,University,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Computer,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Mobile Data,4G,1 - 3,Yes,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,1
+Boy,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Wifi,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,0,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,2
+Boy,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,Yes,Mobile,0
+Boy,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,0,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,1
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,21 - 25,University,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,Yes,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,Yes,Mobile,0
+Boy,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,School,Government,No,No,0,Rich,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,University,Government,No,No,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Government,No,Yes,0,Rich,Mobile Data,4G,1 - 3,Yes,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,2,Poor,Wifi,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,2,Mid,Mobile Data,4G,1 - 3,Yes,Mobile,1
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,No,0,Mid,Mobile Data,2G,1 - 3,No,Mobile,0
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,26 - 30,University,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,2
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,2,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,College,Government,No,No,2,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Computer,1
+Boy,1 - 5,School,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,1 - 5,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,2
+Boy,16 - 20,College,Government,No,No,2,Poor,Mobile Data,2G,1 - 3,No,Mobile,0
+Girl,16 - 20,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,0,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,2
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,2G,1 - 3,No,Mobile,0
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Boy,16 - 20,School,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,2G,1 - 3,No,Mobile,0
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,2
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,3G,1 - 3,Yes,Mobile,1
+Boy,16 - 20,College,Government,No,No,2,Poor,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,2
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,2
+Boy,16 - 20,College,Government,No,Yes,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,Yes,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,2
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,School,Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,2
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,2
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,School,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,1 - 3,Yes,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,2
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,1
+Girl,21 - 25,University,Government,No,No,0,Mid,Mobile Data,2G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,6 - 10,School,Non Government,No,Yes,0,Poor,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Government,No,No,2,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,2
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,2
+Boy,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,2
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,6 - 10,School,Non Government,No,Yes,0,Mid,Wifi,3G,1 - 3,No,Mobile,2
+Boy,6 - 10,School,Non Government,No,Yes,0,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Boy,16 - 20,College,Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,1
+Boy,16 - 20,College,Government,No,No,2,Mid,Mobile Data,3G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Wifi,4G,1 - 3,No,Mobile,0
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,1 - 3,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Boy,1 - 5,School,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,3 - 6,Yes,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,Yes,Computer,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,26 - 30,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,Yes,Computer,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,College,Government,No,No,2,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,2,Poor,Wifi,4G,3 - 6,No,Mobile,0
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,2G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Tab,2
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Computer,2
+Boy,21 - 25,University,Government,No,No,2,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,3 - 6,Yes,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,2,Poor,Wifi,4G,3 - 6,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,Yes,Computer,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Computer,2
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,2
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,2,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Boy,21 - 25,University,Government,No,No,2,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,26 - 30,University,Government,No,No,0,Poor,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Government,No,No,2,Mid,Wifi,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,2G,3 - 6,No,Mobile,1
+Boy,1 - 5,School,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Government,No,Yes,0,Mid,Wifi,3G,0,Yes,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,1 - 5,School,Government,No,No,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Government,No,No,2,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,No,0,Mid,Wifi,4G,0,No,Mobile,1
+Boy,6 - 10,School,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Tab,1
+Boy,21 - 25,University,Government,No,No,2,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Computer,2
+Girl,6 - 10,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,6 - 10,School,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,6 - 10,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,6 - 10,School,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,2G,3 - 6,No,Mobile,1
+Girl,6 - 10,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,2
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Poor,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,6 - 10,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,2
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,11 - 15,School,Non Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Wifi,4G,0,No,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Boy,6 - 10,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Boy,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,Yes,Computer,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Tab,2
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,6 - 10,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,2,Poor,Wifi,4G,3 - 6,No,Mobile,0
+Boy,16 - 20,University,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,Yes,Computer,0
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Computer,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,16 - 20,College,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,16 - 20,College,Non Government,No,Yes,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Tab,1
+Girl,21 - 25,University,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Tab,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,3 - 6,Yes,Mobile,0
+Boy,16 - 20,College,Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Boy,6 - 10,School,Government,No,No,2,Mid,Mobile Data,2G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,3 - 6,Yes,Mobile,0
+Boy,6 - 10,School,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
+Girl,16 - 20,College,Government,No,No,2,Poor,Mobile Data,4G,0,No,Mobile,0
+Boy,6 - 10,School,Government,No,No,2,Mid,Mobile Data,2G,0,No,Mobile,0
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Mobile,2
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Mobile,2
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Mobile,2
+Girl,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,3 - 6,Yes,Mobile,0
+Boy,21 - 25,University,Non Government,No,Yes,0,Mid,Wifi,4G,3 - 6,No,Computer,1
+Boy,6 - 10,School,Government,No,Yes,0,Mid,Mobile Data,4G,0,No,Mobile,0
+Boy,6 - 10,School,Non Government,No,Yes,0,Rich,Wifi,4G,3 - 6,No,Mobile,2
+Girl,16 - 20,College,Non Government,No,No,0,Mid,Mobile Data,3G,3 - 6,Yes,Mobile,0
+Boy,21 - 25,University,Government,No,Yes,0,Mid,Mobile Data,4G,3 - 6,No,Mobile,1
+Boy,6 - 10,School,Government,No,No,0,Mid,Mobile Data,3G,0,No,Mobile,0
+Girl,16 - 20,College,Non Government,No,No,2,Mid,Wifi,4G,3 - 6,No,Mobile,1
