@@ -1,24 +1,26 @@
-AMAT 191 Code contains the code in the regression analysis of the Final Data. \n
-Final Data is a csv file containing the data set of Students' Adaptability Level in Online Education.\n
-The contents of the of the csv file are: 
-The feature sets:
- Gender, 
-Age, 
-Education Level, 
-Institution Type,
-IT Student,
-Location in Town,
-Load-shedding,
-Financial Condition,
-Internet Type,
-Network Type,
-Class Duration,
-Self LMS,
-Device,
-
-The target feature is:
+**AMAT 191 Code** contains the code in the regression analysis of the Final Data. <br />
+**Final Data** is a csv file containing the data set of Students' Adaptability Level in Online Education.<br /><br />
+The objective of the code is it to obtain the regression coefficients of the best-fit model of the given data. <br /><br />
+The contents of the of the csv file are: <br />
+**The feature sets**<br />
+ Gender<br />
+Age<br /> 
+Education Level<br />
+Institution Type<br />
+IT Student<br />
+Location in Town<br />
+Load-shedding<br />
+Financial Condition<br />
+Internet Type<br />
+Network Type<br />
+Class Duration<br />
+Self LMS<br />
+Device<br />
+<br /><br />
+**The target feature**<br />
  Adaptivity level
-
-Acknowledgement:Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches or DOI: 10.1109/ICCCNT51525.2021.9579741
+<br /><br />
+**Acknowledgement**:<br />  [Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education "Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches")
+or DOI: 10.1109/ICCCNT51525.2021.9579741
 
 
